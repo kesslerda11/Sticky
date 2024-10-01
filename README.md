@@ -1,0 +1,1 @@
+This repository contains a Matlab script, Sticky.m, which simulates a time-averaged neutral  ecosystem with environmental noise and immigration, but no demographic noise.  The parameters are set within the script.  Just run and enjoy!
